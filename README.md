@@ -6,5 +6,7 @@ It's a python project. Python libraries like cv2 (open-cv lib), numpy, osascript
 Tutorial:
 
 -> Use your index finger and thumb in front of camera. 
+
 -> If you move these fingers close to each other then the volume of system will decrease. If you move these fingers away from each other then the volume of system will increase.
+
 -> If we join the tips of both fingers then then the volume of system will get mute.
